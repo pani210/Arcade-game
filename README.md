@@ -56,3 +56,17 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 1. Player will always tries to score without touching the enemies.
 2. If he hits the enemies a sweetalert will be displayed by showing congratulations and score will be displayed.
 3. A button also displayed showing that play again. 
+
+### How to play and run the game ###
+1. After completion of project without any error.
+2. Run the index.html in your favourite browser and you will see the game panel on your screen.
+3. you can move your player by navigatinal keys:
+   - left
+   - right
+   - top and 
+   - bottom.
+4. The player shouldn't collide with the enemey.
+5. If player reaches the watermark area he will automatically comes to initial position and score will be awareded as five points.
+6. whenever the player collides the enemey the game will ends automatically and the score will be displayed on the screen using sweetalert.
+7. If you  want to play again just click the button `play again` in the alert. 
+   
